@@ -38,9 +38,8 @@
 				>
 					<img
 						class="
-							h-72
-							md:h-80
-							lg:h-96
+							lg:h-64
+							xl:h-72
 							w-auto
 							max-w-none
 							md:-mr-48
