@@ -2,22 +2,25 @@
   {
     "name": "datenschutz",
     "path": "/datenschutz",
-    "component": "C:\\\\Users\\\\mmeiwes\\\\Desktop\\\\Webseite Git Projekt\\\\marco\\\\pages\\\\datenschutz.vue",
+    "component": "/Users/alexanderfalkenberg/Kundenprojekte/marco/pages/datenschutz.vue",
     "chunkName": "pages/datenschutz",
-    "url": "/datenschutz"
+    "url": "/datenschutz",
+    "_name": "_3dab6372"
   },
   {
     "name": "impressum",
     "path": "/impressum",
-    "component": "C:\\\\Users\\\\mmeiwes\\\\Desktop\\\\Webseite Git Projekt\\\\marco\\\\pages\\\\impressum.vue",
+    "component": "/Users/alexanderfalkenberg/Kundenprojekte/marco/pages/impressum.vue",
     "chunkName": "pages/impressum",
-    "url": "/impressum"
+    "url": "/impressum",
+    "_name": "_ac0c62ca"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\mmeiwes\\\\Desktop\\\\Webseite Git Projekt\\\\marco\\\\pages\\\\index.vue",
+    "component": "/Users/alexanderfalkenberg/Kundenprojekte/marco/pages/index.vue",
     "chunkName": "pages/index",
-    "url": "/"
+    "url": "/",
+    "_name": "_c3593114"
   }
 ]
