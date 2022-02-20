@@ -7,7 +7,7 @@ export default {
 		title:
 			'Marco Meiwes Personal Trainer im Kreis Paderborn',
 		htmlAttrs: {
-			lang: 'en',
+			lang: 'de',
 		},
 		meta: [
 			{ charset: 'utf-8' },
