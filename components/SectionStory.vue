@@ -5,11 +5,12 @@
 				md:mx-auto md:max-w-7xl md:px-8
 				grid
 				items-center
-				md:grid-cols-2
+				md:grid-cols-5
 			"
 		>
 			<div
 				class="
+					col-span-2
 					lg:max-w-md
 					px-4
 					mx-auto
@@ -23,6 +24,7 @@
 
 			<div
 				class="
+					col-span-3
 					lg:mt-0
 					flex
 					justify-center
