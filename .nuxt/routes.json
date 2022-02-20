@@ -4,20 +4,20 @@
     "path": "/datenschutz",
     "component": "C:\\\\Users\\\\mmeiwes\\\\Desktop\\\\Webseite Git Projekt\\\\marco\\\\pages\\\\datenschutz.vue",
     "chunkName": "pages/datenschutz",
-    "_name": "_4c23a8b4"
+    "url": "/datenschutz"
   },
   {
     "name": "impressum",
     "path": "/impressum",
     "component": "C:\\\\Users\\\\mmeiwes\\\\Desktop\\\\Webseite Git Projekt\\\\marco\\\\pages\\\\impressum.vue",
     "chunkName": "pages/impressum",
-    "_name": "_5670e048"
+    "url": "/impressum"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\mmeiwes\\\\Desktop\\\\Webseite Git Projekt\\\\marco\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_2c4857a3"
+    "url": "/"
   }
 ]

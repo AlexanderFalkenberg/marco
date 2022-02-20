@@ -11,7 +11,7 @@ export default {
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" },
+      { hid: "description", name: "description", content: "Personal Training im Kreis Paderborn. Ich helfe Menschen sich in ihrem Körper wohlzufühlen." },
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [
@@ -43,7 +43,9 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@nuxt/content"],
+  modules: ["@nuxt/content", '@nuxtjs/sitemap'],  
+
+  sitemap: {hostname:"https://marcomeiwes.de"},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
