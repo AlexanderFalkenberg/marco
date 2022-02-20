@@ -37,7 +37,7 @@
 					"
 				>
 					<img
-						class="lg:h-72 w-auto max-w-none xl:-mr-16"
+						class="lg:h-72 w-auto max-w-none"
 						:src="src"
 						:alt="alt"
 					/>

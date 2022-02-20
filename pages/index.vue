@@ -117,7 +117,7 @@
 					</template>
 				</SectionStory>
 				<SectionStory
-					src="/img/running.jpg"
+					src="/img/franky_action.jpg"
 					alt="Handstand"
 				>
 					<template v-slot:left>
