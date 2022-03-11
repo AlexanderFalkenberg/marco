@@ -21,7 +21,11 @@ export default {
 				content:
 					'Als Personal Trainer im Kreis Paderborn, helfe ich Menschen sich in ihrem Körper wohlzufühlen.',
 			},
-			{ name: 'format-detection', content: 'telephone=no' },
+			{ name: 'robots', content: 'index' },
+			{
+				name: 'format-detection',
+				content: 'telephone=yes',
+			},
 		],
 		link: [
 			{
