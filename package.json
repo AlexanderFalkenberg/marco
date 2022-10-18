@@ -10,6 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@fontsource/roboto": "^4.5.8",
+    "@fontsource/roboto-condensed": "^4.5.9",
     "@nuxt/content": "^1.15.0",
     "@nuxtjs/sitemap": "^2.4.0",
     "@tailwindcss/typography": "^0.4.1",

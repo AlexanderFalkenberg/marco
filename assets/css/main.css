@@ -13,3 +13,19 @@ html {
 	background-size: cover;
 	background-position: center center;
 }
+
+/* @font-face {
+	font-family: 'DM Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('~assets/fonts/DMSans-Regular.ttf') format('truetype');
+  }
+  
+  @font-face {
+	font-family: 'DM Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('~assets/fonts/DMSans-Bold.ttf') format('truetype');
+  } */
